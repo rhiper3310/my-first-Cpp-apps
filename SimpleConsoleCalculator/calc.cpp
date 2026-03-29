@@ -5,6 +5,8 @@ using namespace std;
 
 int main()
 {
+  setlocale(LC_ALL, "RU");
+
 string action;
 int num1;
 int num2;
