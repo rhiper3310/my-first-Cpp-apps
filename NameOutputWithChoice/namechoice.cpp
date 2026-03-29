@@ -7,6 +7,9 @@ int print(int x);
 
 int main(int argc, char *argv[])
 {
+setlocale(LC_ALL, "RU");
+
+ 
  cout << "enter number:\n";
  cout << "1. Полное имя\n";
  cout << "2. Только имя\n";
