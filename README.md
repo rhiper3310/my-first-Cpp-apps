@@ -1,2 +1,4 @@
 # my-first-Cpp-apps
-my first c++ aplications what i made
+hello this is my first serious repository what i made
+
+i newbie at Cpp and programing at all
